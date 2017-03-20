@@ -1,0 +1,1 @@
+{"type":"View","props":{"sceneWidth":600,"sceneHeight":480,"sceneColor":"#ffffff"},"compId":1,"child":[{"type":"Texture","props":{},"compId":2}],"animations":[{"nodes":[{"target":2,"keyframes":{}}],"name":"ani1","id":1,"frameRate":24,"action":0}]}
